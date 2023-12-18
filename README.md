@@ -1,4 +1,4 @@
-# AI-Quiz-Generator
+# Quiz Application
 
 
 **Files:** 
