@@ -46,6 +46,11 @@ The temperature parameter is set to 0.7 to control the randomness of the generat
 
 ![image](https://github.com/Neha-Jakhar/AI-Quiz-Generator/assets/103881430/59e9b735-4d42-45c9-b8c6-3d8bf762039c)
 
+Generating Questions and Multiple choice answers
+
+![image](https://github.com/Neha-Jakhar/AI-Quiz-Generator/assets/103881430/ed1db2cc-93e6-434e-8a33-1fbd2bce806a)
+
+
 
 
 
