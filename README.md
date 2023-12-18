@@ -42,6 +42,9 @@ The temperature parameter is set to 0.7 to control the randomness of the generat
 *5. Improvement:* To enhance user experience, more visual elements and feedback mechanisms (e.g., progress bar, proper display of scores could be added) can be added. Also, a different page could be used for differnt questions, with Next and Previous Buttons. 
 
 
+**User Interface**
+
+![image](https://github.com/Neha-Jakhar/AI-Quiz-Generator/assets/103881430/59e9b735-4d42-45c9-b8c6-3d8bf762039c)
 
 
 
